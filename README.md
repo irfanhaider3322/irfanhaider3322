@@ -30,6 +30,8 @@
 - [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/account/accomplishments/verify/CGAGYYXQKRNR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Introduction to Relational Databases (RDBMS)](https://www.coursera.org/account/accomplishments/verify/AVJH2S5WWN36?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Relational Database Administration (DBA))](https://www.coursera.org/account/accomplishments/verify/PH74MMNQZ2F4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Power BI Data Modeling with DAX](https://www.linkedin.com/learning/certificates/9590715678466fed5046f803a54a728fda715ef2cf08ea34f121e5b23f4eb21e)
+
 
 
 
