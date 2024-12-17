@@ -14,8 +14,8 @@
   - [Company Project Power BI NOC Updated 3 Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 - <b>Company Project IT Inventory Management System DASHBOARD (Power BI Dashboard)</b>
   - [Portfolio Project Power BI IT Inventory Management System Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
-- <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
-  - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
+- <b>Flat Room Data of my Customer DASHBOARD (Power BI Dashboard)</b>
+  - [Customer Project Power BI Flat Room Data of my Customer Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 - <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
   - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 
