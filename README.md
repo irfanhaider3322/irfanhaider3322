@@ -43,7 +43,7 @@
 
  
 [linkedin]: https://www.linkedin.com/in/irfan-haider035
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfan.pcr3322@gmail.com)  
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
