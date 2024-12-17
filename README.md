@@ -10,12 +10,16 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Enabling Solutions Company Inventory Management Dashboard(Power BI Dashboard)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>NOC Updated 3 DASHBOARD (Power BI Dashboard)</b>
-  - [Company Project Power BI NOC Updated 3 Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
+- <b>Enabling Solutions Company NOC Updated 3 DASHBOARD (Power BI Dashboard)</b>
+  - [Enabling Solutions Company Project Power BI NOC Updated 3 Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 - <b>Company Project IT Inventory Management System DASHBOARD (Power BI Dashboard)</b>
   - [Portfolio Project Power BI IT Inventory Management System Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 - <b>Flat Room Data of my Customer DASHBOARD (Power BI Dashboard)</b>
   - [Customer Project Power BI Flat Room Data of my Customer Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
+
+- <b>Growatt Inverter Data DASHBOARD (Power BI Dashboard)</b>
+  - [Enabling Solutions Company Project Power BI Growatt Inverter Data Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
+
 - <b>Python E Commerce Sale Analysis</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
