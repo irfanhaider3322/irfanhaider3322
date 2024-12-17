@@ -10,10 +10,10 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Enabling Solutions Company Inventory Management Dashboard(Power BI Dashboard)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
-  - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
-- <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
-  - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
+- <b>NOC Updated 3 DASHBOARD (Power BI Dashboard)</b>
+  - [Company Project Power BI NOC Updated 3 Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
+- <b>Company Project IT Inventory Management System DASHBOARD (Power BI Dashboard)</b>
+  - [Portfolio Project Power BI IT Inventory Management System Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 - <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
   - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 - <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
