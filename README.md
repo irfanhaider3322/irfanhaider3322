@@ -12,7 +12,12 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
   - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
-
+- <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
+  - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
+- <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
+  - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
+- <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
+  - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 
 - <b>Python E Commerce Sale Analysis</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
