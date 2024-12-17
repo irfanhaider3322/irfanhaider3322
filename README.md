@@ -23,9 +23,17 @@
 - <b>Python E Commerce Sale Analysis on Process</b>
   - [Python E Commerce Sale Analysis (Data Analysis)]
 
-<h2>Course Certificates </h2>
+<h2>Courses Certificates </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/BG22KXBQDDHR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Introduction to Data Engineering](https://www.coursera.org/account/accomplishments/verify/UZPLFLXYXGK2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.coursera.org/account/accomplishments/verify/CGAGYYXQKRNR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Introduction to Relational Databases (RDBMS)](https://www.coursera.org/account/accomplishments/verify/AVJH2S5WWN36?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Relational Database Administration (DBA))](https://www.coursera.org/account/accomplishments/verify/PH74MMNQZ2F4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
