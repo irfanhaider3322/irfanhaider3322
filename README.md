@@ -3,7 +3,7 @@
 <h2>👨‍💻 Power BI Projects:</h2>
 
 - <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
-  - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
