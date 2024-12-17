@@ -16,9 +16,6 @@
   - [Portfolio Project Power BI IT Inventory Management System Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 - <b>Flat Room Data of my Customer DASHBOARD (Power BI Dashboard)</b>
   - [Customer Project Power BI Flat Room Data of my Customer Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
-- <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
-  - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
-
 - <b>Python E Commerce Sale Analysis</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
