@@ -26,8 +26,8 @@
 - <b>HR Analytics Data DASHBOARD (Tableau Dashboard)</b>
   - [HR Analytics Data DASHBOARD ](https://github.com/irfanhaider3322/HR-Analytics-Data-DASHBOARD-with-Tableau.git)
 
-- <b>Python E Commerce Sale Analysis on Process</b>
-  - [Python E Commerce Sale Analysis (Data Analysis)]
+- <b>Python E Commerce Sale Analysis with Source Code</b>
+  - [Python E Commerce Sale Analysis (Data Analysis)](https://github.com/irfanhaider3322/E-commerce-sales-with-Python.git)
 
 <h2>Courses Certificates </h2>
 
