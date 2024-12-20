@@ -23,6 +23,9 @@
 - <b>Electric Vehicles Data Analysis DASHBOARD (Tableau Dashboard)</b>
   - [Electric Vehicles Data Analysis DASHBOARD](https://github.com/irfanhaider3322/Project-of-Electric-Vehicles-Analysis.git)
 
+- <b>HR Analytics Data DASHBOARD (Tableau Dashboard)</b>
+  - [HR Analytics Data DASHBOARD ](https://github.com/irfanhaider3322/HR-Analytics-Data-DASHBOARD-with-Tableau.git)
+
 - <b>Python E Commerce Sale Analysis on Process</b>
   - [Python E Commerce Sale Analysis (Data Analysis)]
 
