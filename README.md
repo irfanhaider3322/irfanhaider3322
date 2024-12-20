@@ -20,6 +20,9 @@
 - <b>Growatt Inverter Data DASHBOARD (Power BI Dashboard)</b>
   - [Enabling Solutions Company Project Power BI Growatt Inverter Data Dashboard](https://github.com/irfanhaider3322/Growatt-Inverter-Data-DASHBOARD-Power-BI-Dashboard-.git)
 
+- <b>Electric Vehicles Data Analysis DASHBOARD (Tableau Dashboard)</b>
+  - [Electric Vehicles Data Analysis DASHBOARD](https://github.com/irfanhaider3322/Project-of-Electric-Vehicles-Analysis.git)
+
 - <b>Python E Commerce Sale Analysis on Process</b>
   - [Python E Commerce Sale Analysis (Data Analysis)]
 
