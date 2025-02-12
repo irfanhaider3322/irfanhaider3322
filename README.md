@@ -1,4 +1,4 @@
-<h1>Hi, I'm Irfan Haider <br/><a href="https://www.linkedin.com/in/irfan-haider035">Data Analyst</a>, <a href="https://www.linkedin.com/in/irfan-haider035">Data Engineer</a>, <a href="https://www.linkedin.com/in/irfan-haider035">Data Science</a></h1>
+<h1>Hi, I'm Irfan Haider <br/><a href="https://www.linkedin.com/in/irfan-haider035">Data Analyst</a>, <a href="https://www.linkedin.com/in/irfan-haider035">Data Engineer</a>, <a href="https://www.linkedin.com/in/irfan-haider035">Data Engineer</a>, <a href="https://www.linkedin.com/in/irfan-haider035">Data Science</a></h1>
 
 <h2>👨‍💻 Power BI Projects:</h2>
 
