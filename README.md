@@ -29,6 +29,9 @@
 - <b>Python E Commerce Sale Analysis with Source Code</b>
   - [Python E Commerce Sale Analysis (Data Analysis)](https://github.com/irfanhaider3322/E-commerce-sales-with-Python.git)
 
+- <b> Oil & Gas Project Dashboard </b>
+  - [Oil and Gas Project In Primavera P6 (Planning Engineering)](https://github.com/irfanhaider3322/Oil-and-Gas-Project-.git)
+
 <h2>Courses Certificates </h2>
 
 - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/BG22KXBQDDHR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
