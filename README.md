@@ -33,7 +33,7 @@
   - [Oil and Gas Project In Primavera P6 (Planning Engineering)](https://github.com/irfanhaider3322/Oil-and-Gas-Project-.git)
 
 - <b> Bank Customers Data Analysis Project Dashboard in Power BI </b>
-  - [Bank Customers Data Analysis Project Dashboard in Power BI](https://github.com/irfanhaider3322/Oil-and-Gas-Project-.git)
+  - [Bank Customers Data Analysis Project Dashboard in Power BI](https://github.com/irfanhaider3322/Bank-Customer-Data-Analysis.git)
 
 
 
