@@ -35,6 +35,9 @@
 - <b> Bank Customers Data Analysis Project Dashboard in Power BI </b>
   - [Bank Customers Data Analysis Project Dashboard in Power BI](https://github.com/irfanhaider3322/Bank-Customer-Data-Analysis.git)
 
+- <b> Construction Project Management Dashboard in Power BI </b>
+  - [Construction Project Management Dashboard in Power BI](https://github.com/irfanhaider3322/Bank-Customer-Data-Analysis.git)
+
 
 
 
