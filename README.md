@@ -29,8 +29,12 @@
 - <b>Python E Commerce Sale Analysis with Source Code</b>
   - [Python E Commerce Sale Analysis (Data Analysis)](https://github.com/irfanhaider3322/E-commerce-sales-with-Python.git)
 
-- <b> Oil & Gas Project Dashboard </b>
+- <b> Oil & Gas Project Dashboard in Power BI </b>
   - [Oil and Gas Project In Primavera P6 (Planning Engineering)](https://github.com/irfanhaider3322/Oil-and-Gas-Project-.git)
+
+
+
+
 
 <h2>Courses Certificates </h2>
 
