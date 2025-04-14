@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Power BI Projects:</h2>
 
-- <b>T20 WORLD CAP DASHBOARD (Power BI Dashboard)</b>
-  - [Portfolio Project Power BI T20 WORLD CAP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
+- <b>T20 WORLD CUP DASHBOARD (Power BI Dashboard)</b>
+  - [Portfolio Project Power BI T20 WORLD CUP Dashboard](https://github.com/irfanhaider3322/T20-WORLDCAP-DASHBOARD.git)
 - <b>HR ANALYTIC DASHBOARD (Power BI Dashboard)</b>
   - [Portfolio Project Power BI HR ANALYTIC DASHBOARD](https://github.com/irfanhaider3322/HR-ANALYTIC-DASHBOARD-Power-BI-Dashboard-.git) <b><i></b></i>
 - <b>Enabling Solutions Company SAJ Inverters Realtime Data (Power BI Dashboard) </b>
